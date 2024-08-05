@@ -1,1 +1,1 @@
-# bdi-tf-training
+# BDI Terraform Training
